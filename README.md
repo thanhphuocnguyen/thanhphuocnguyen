@@ -16,7 +16,7 @@
 
 💬 Ask me about frontend architecture, form handling, clean code, or tech stack design decisions.
 
-📫 How to reach me: phuocnguyen.dev@gmail.com
+📫 How to reach me: thanhphuocb7@gmail.com
 
 😄 Pronouns: He/Him
 
