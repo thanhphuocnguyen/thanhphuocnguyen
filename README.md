@@ -25,4 +25,6 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/thanhphuocb7?theme=light&font=Roboto%20Flex&ext=heatmap)
 
+![Wele Stats](https://wele-github-profile.vercel.app/api/profile.svg?id=67828)
+
 UPDATING....
